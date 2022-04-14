@@ -79,6 +79,7 @@ body {
   background: #fff;
   border-radius: 1rem;
   padding: 1.5rem 2rem;
+  box-shadow: 5px 7px 10px #bfbfbf, -5px 7px 10px #bfbfbf;
 }
 
 .book h1 {
